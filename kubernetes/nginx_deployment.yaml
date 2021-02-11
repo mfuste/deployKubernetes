@@ -1,6 +1,5 @@
 kind: ConfigMap  
 apiVersion: apps/v1
-<<<<<<< HEAD
 kind: ConfigMap  
 metadata:  
   name: ingress-default-static-files  
