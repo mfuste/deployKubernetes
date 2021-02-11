@@ -20,7 +20,7 @@ data:
     </html>  
   main.css: |  
     body {  
-      background-color: lightgray;  
+      background-color: blue;  
       font-family: Verdana, Arial, Helvetica, sans-serif;  
     }    
 ---  
